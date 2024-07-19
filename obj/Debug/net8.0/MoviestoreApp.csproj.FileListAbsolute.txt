@@ -1,0 +1,14 @@
+D:\Assignments\MoviestoreApp\bin\Debug\net8.0\MoviestoreApp.exe
+D:\Assignments\MoviestoreApp\bin\Debug\net8.0\MoviestoreApp.deps.json
+D:\Assignments\MoviestoreApp\bin\Debug\net8.0\MoviestoreApp.runtimeconfig.json
+D:\Assignments\MoviestoreApp\bin\Debug\net8.0\MoviestoreApp.dll
+D:\Assignments\MoviestoreApp\bin\Debug\net8.0\MoviestoreApp.pdb
+D:\Assignments\MoviestoreApp\obj\Debug\net8.0\MoviestoreApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignments\MoviestoreApp\obj\Debug\net8.0\MoviestoreApp.AssemblyInfoInputs.cache
+D:\Assignments\MoviestoreApp\obj\Debug\net8.0\MoviestoreApp.AssemblyInfo.cs
+D:\Assignments\MoviestoreApp\obj\Debug\net8.0\MoviestoreApp.csproj.CoreCompileInputs.cache
+D:\Assignments\MoviestoreApp\obj\Debug\net8.0\MoviestoreApp.dll
+D:\Assignments\MoviestoreApp\obj\Debug\net8.0\refint\MoviestoreApp.dll
+D:\Assignments\MoviestoreApp\obj\Debug\net8.0\MoviestoreApp.pdb
+D:\Assignments\MoviestoreApp\obj\Debug\net8.0\MoviestoreApp.genruntimeconfig.cache
+D:\Assignments\MoviestoreApp\obj\Debug\net8.0\ref\MoviestoreApp.dll
