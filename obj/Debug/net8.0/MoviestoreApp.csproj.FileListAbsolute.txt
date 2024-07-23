@@ -12,3 +12,12 @@ D:\Assignments\MoviestoreApp\obj\Debug\net8.0\refint\MoviestoreApp.dll
 D:\Assignments\MoviestoreApp\obj\Debug\net8.0\MoviestoreApp.pdb
 D:\Assignments\MoviestoreApp\obj\Debug\net8.0\MoviestoreApp.genruntimeconfig.cache
 D:\Assignments\MoviestoreApp\obj\Debug\net8.0\ref\MoviestoreApp.dll
+D:\Assignments\MoviestoreApp\bin\Debug\net8.0\MoviestoreApp.dll.config
+D:\Assignments\MoviestoreApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Assignments\MoviestoreApp\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+D:\Assignments\MoviestoreApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Assignments\MoviestoreApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+D:\Assignments\MoviestoreApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Assignments\MoviestoreApp\obj\Debug\net8.0\MoviestoreApp.csproj.AssemblyReference.cache
+D:\Assignments\MoviestoreApp\obj\Debug\net8.0\MoviestoreApp.sourcelink.json
+D:\Assignments\MoviestoreApp\obj\Debug\net8.0\Moviesto.45933032.Up2Date

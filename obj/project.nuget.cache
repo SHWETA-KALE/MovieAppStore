@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ciucUBkVOMk=",
+  "dgSpecHash": "qs/MmEMcEAI=",
   "success": true,
   "projectFilePath": "D:\\Assignments\\MoviestoreApp\\MoviestoreApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\shweta.kale\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\shweta.kale\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\shweta.kale\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -14,6 +14,9 @@ namespace MoviestoreApp.models
         public int YearOfRelease { get; set; }
         public string Genre { get; set; }
 
+        public Movie() { }
+
+
         public Movie(int id, string name, int yearofrelease)
         {
             Id = id;
